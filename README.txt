@@ -1,6 +1,7 @@
 Project Management with Git - Syllabus Improvement Repository
 Indu FDP at KSIT RVITM new-second changes are made
 this change is for understanding branch
+this is to check the changes in both master and newbranch
 Purpose
 This repository stores academic documents used to improve the syllabus for the
 course "Project Management with Git".
