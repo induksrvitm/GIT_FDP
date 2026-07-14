@@ -18,7 +18,7 @@ course "Project Management with Git".
 Repository Goal
 Collaboratively review, improve and release a clearer version of the syllabus.
 
-Files
+FilesChange1
 - question-paper.docx: Question paper based on the current syllabus.
 - syllabus-overview.pptx: Presentation overview of the syllabus.
 - syllabus-improvement-notes.txt: Team notes on what should be improved.
