@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 main change
+=======
+>>>>>>> branch
 =======
 >>>>>>> branch
 line1
@@ -37,4 +40,10 @@ Example Branch Names
 - feature-github-workflow
 - bugfix-learning-levels
 
-Indu K S
+<<<<<<< HEAD
+Indu K S RVITM
+=======
+
+
+RVITM
+>>>>>>> branch
