@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 main change
+=======
+>>>>>>> branch
 line1
 changes1 changes2
 Project Management with Git - Syllabus Improvement Repository
@@ -34,3 +37,4 @@ Example Branch Names
 - feature-github-workflow
 - bugfix-learning-levels
 
+Indu K S
