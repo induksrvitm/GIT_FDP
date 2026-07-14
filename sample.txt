@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 line1-changes1 chamges2
 line2-Base
+=======
+line1-changes1
+>>>>>>> child
 line3-changes2
